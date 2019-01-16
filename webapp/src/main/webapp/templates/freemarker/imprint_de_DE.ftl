@@ -1,6 +1,6 @@
 <#-- $This file is distributed under the terms of the license in /doc/license.txt$ -->
 
-<section id="imprint" role="region">
+<section class="uos_style" role="region">
     <h2>Impressum</h2>
 <p>Angaben gemäß § 5 TMG:</p>
 <p>Universität Osnabrück<br />
@@ -25,7 +25,7 @@
 </p>
 <p> Dies gilt auch für Informationen auf Internetseiten, auf die mittels eines  Hyperlinks verwiesen wird.  Zum Zeitpunkt der Verlinkung war der Inhalt frei von illegalen Inhalten. Auf die Gestaltung der gelinkten Internetseiten kann die Universität Osnabrück keinerlei Einfluss nehmen. Eine ständige inhaltliche Kontrolle der verlinkten Seiten ist ohne das Vorliegen konkreter Anhaltspunkte einer Rechtsverletzung darüber hinaus nicht zumutbar. Der Inhalt dieser Seiten liegt daher vollständig außerhalb des Verantwortungsbereichs der Universität Osnabrück. Die Universität Osnabrück macht sich den Inhalt der verlinkten Internetseiten nicht zu eigen. Für Schäden, die aus fehlerhaften oder unvollständigen Inhalten auf den mittels Link verwiesenen Internetseiten resultieren, haftet die Universität Osnabrück, die Verantwortlichen dieser Internetseite bzw. die Autoren nicht.
 </p>
-<p><a href="http://www.uni-osnabrueck.de/serviceseiten/datenschutz.html">Informationen zum Datenschutz</a>
+<p><a href="${urls.privacypolicy}">Informationen zum Datenschutz</a>
 </p>
 
 <p><strong>Haftung für Inhalte</strong><br />Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Körperschaft des öffentlichen Rechts sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.

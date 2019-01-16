@@ -1,6 +1,6 @@
 <#-- $This file is distributed under the terms of the license in /doc/license.txt$ -->
 
-<section id="imprint" role="region">
+<section class="uos_style" role="region">
     <h2>Datenschutzerklärung</h2>
 <h3>1. Datenschutz auf einen Blick</h3>
 <h4>Allgemeine Hinweise</h4>

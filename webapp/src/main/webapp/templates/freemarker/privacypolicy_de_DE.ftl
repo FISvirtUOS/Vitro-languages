@@ -33,7 +33,7 @@
   Neuer Graben 29 / Schloss<br />
   49074 Osnabrück<br />
   Telefon: +49 541 969 0<br />
-  <a href="mailto:fis@uni-osnabrueck.de">fis@uni-osnabrueck.de</a>
+  <a href="mailto:fis@uni-osnabrueck.de" class="mail">fis@uni-osnabrueck.de</a>
 </p>
 
 <p>Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, E-Mail-Adressen oder ähnliches) entscheidet. </p>

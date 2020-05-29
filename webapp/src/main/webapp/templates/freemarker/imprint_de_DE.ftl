@@ -9,7 +9,7 @@
 	Tel. +49 541 969 0<br />
 	Fax +49 541 969 4888
 </p>
-<p> Die Universität Osnabrück ist eine Körperschaft des öffentlichen Rechts. Sie wird durch den Präsidenten Prof. Dr. Wolfgang Lücke gesetzlich vertreten.</p>
+<p> Die Universität Osnabrück ist eine Körperschaft des öffentlichen Rechts. Sie wird durch die Präsidentin Prof. Dr. Susanne Menzel-Riedl gesetzlich vertreten.</p>
 <p> Zuständige Aufsichtsbehörde: Niedersächsisches Ministerium für Wissenschaft und Kultur, Leibnizufer 9, 30169 Hannover</p>
 <p> Umsatzsteuer-Identifikationsnummer gemäß § 27a Umsatzsteuergesetz: DE 154 285 400</p>
 <p>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:<br />
